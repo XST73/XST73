@@ -1,5 +1,5 @@
 # Hi! there 👋
-<a href="https://app.daily.dev/X73"><img src="https://github.com/XST73/XST73/blob/master/devcard.svg" width="400" alt="X73's Dev Card"/></a>
+<a href="https://app.daily.dev/X73"><img src="https://github.com/XST73/XST73/blob/main/devcard.svg" width="400" alt="X73's Dev Card"/></a>
 
 <!--
 **XST73/XST73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
