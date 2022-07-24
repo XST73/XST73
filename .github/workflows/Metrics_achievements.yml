@@ -30,6 +30,7 @@ jobs:
           base: ""
           config_timezone: Asia/Shanghai
           filename: achievements.*
+          config_display: large
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes
