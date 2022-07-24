@@ -1,4 +1,4 @@
-### Hi there 👋
+<a href="https://app.daily.dev/X73"><img src="https://api.daily.dev/devcards/e3e31e008d9a44388d81796efc10b3de.png?r=vki" width="400" alt="X73's Dev Card"/></a>
 
 <!--
 **XST73/XST73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
