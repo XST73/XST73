@@ -21,7 +21,7 @@
 
 ---
 
-![XST73's GitHub stats](https://github-readme-stats.vercel.app/api?username=XST73&show_icons=true&theme=tokyonight)
+![XST73's GitHub stats](https://github-readme-stats.vercel.app/api?username=XST73&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XST73&layout=compact&hide_border=true&langs_count=10&card_width=256)](https://github.com/XST73/github-readme-stats)
 
 ![Metrics](https://metrics.lecoq.io/XST73?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&base.indepth=false&base.hireable=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FShanghai)
