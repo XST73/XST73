@@ -24,4 +24,4 @@
 ![XST73's GitHub stats](https://github-readme-stats.vercel.app/api?username=XST73&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XST73&layout=compact&hide_border=true&langs_count=10&card_width=256)](https://github.com/XST73/github-readme-stats)
 
-![Achievements](/achievements.svg)
+<img src="https://github.com/XST73/XST73/blob/main/achievements.svg" alt="Achievements" width="100%">
