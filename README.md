@@ -24,10 +24,10 @@
 ![XST73's GitHub stats](https://github-readme-stats.vercel.app/api?username=XST73&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XST73&layout=compact&hide_border=true&langs_count=10&card_width=256)](https://github.com/XST73/github-readme-stats)
 
-![Achievements](/achievements.svg)
+<!-- ![Achievements](/achievements.svg)-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XST73/XST73/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XST73/XST73/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/XST73/XST73/output/github-snake.svg" />
 </picture>
